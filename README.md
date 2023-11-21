@@ -62,7 +62,7 @@ This will open a web browser window with access to the Jupyter Notebook interfac
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out. You can find me on Twitter[https://twitter.com/MungaiMbuthi].
+If you have any questions, suggestions, or feedback, please feel free to reach out. You can find me on [Twitter](https://twitter.com/MungaiMbuthi).
 
 I hope this repository proves to be a valuable resource for sarcasm detection and helps improve understanding and interpretation of sarcastic text in various applications.
 
