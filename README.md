@@ -33,7 +33,7 @@ To get started with sarcasm detection, follow these steps:
 
 ```bash
 git clone https://github.com/mbuthi/sarcasm_detection_model
-cd sarcasm-detection
+cd sarcasm_detection_model
 ```
 
 2. Create a virtual environment using `virtualenv` (assuming you have `virtualenv` installed).
