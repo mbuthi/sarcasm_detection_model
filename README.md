@@ -32,7 +32,7 @@ To get started with sarcasm detection, follow these steps:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/mbuthi/sarcasm_detection_model
 cd sarcasm-detection
 ```
 
@@ -67,5 +67,3 @@ If you have any questions, suggestions, or feedback, please feel free to reach o
 I hope this repository proves to be a valuable resource for sarcasm detection and helps improve understanding and interpretation of sarcastic text in various applications.
 
 ---
-
-Please replace `<repository_url>` with the actual URL of your GitHub repository. This README includes instructions for creating a virtual environment, installing dependencies, and starting a Jupyter Notebook server to help users get started with your project.
